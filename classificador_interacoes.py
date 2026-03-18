@@ -3,10 +3,10 @@
 # Perfil: Machine Learning aplicado (Blocos 6 -> 7 -> 9)
 #
 # Integrantes:
-#   - (preencher)
-#
-# E-mails:
-#   - (preencher)
+#     - Eric Endres
+#     - Felipe Kurt Pohling
+#     - Igor Kussumoto do Nascimento
+#     - Manuela Bechara Cannizza
 #
 # Disciplina: INC702-7SI — Fundamentos de IA
 # =============================================================================
